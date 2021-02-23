@@ -1,0 +1,10 @@
+---
+# vars file for criando-instancias
+instance_type: t2.medium
+sec_group_name: giropopssec
+image: ami-02fe94dee086c0c37
+keypair: key2
+region: us-east-1
+count: 3
+profile: perez
+
